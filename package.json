@@ -1,0 +1,25 @@
+{
+  "name": "playwrighte2emcpaiagents",
+  "version": "1.0.0",
+  "description": "Playwright E2E Tests with AI Capabilities incl MCP",
+  "keywords": [
+    "playwright",
+    "playwright-e2e-tests",
+    "playwright-mcp"
+  ],
+  "homepage": "https://github.com/Shubham-D13/PlayWrightE2EMCPAIAgents#readme",
+  "bugs": {
+    "url": "https://github.com/Shubham-D13/PlayWrightE2EMCPAIAgents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-D13/PlayWrightE2EMCPAIAgents.git"
+  },
+  "license": "ISC",
+  "author": "cope Automation",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
